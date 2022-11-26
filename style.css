@@ -131,10 +131,11 @@ font-family: 'Poppins', sans-serif;
 
 
 
-.icon .img{
+.icon.img{
     margin-left: 15px;
-    /* display: inline-block; */
+    display: inline-block;
     flex-direction: column;
+    position: absolute;
     align-items: center;
     display:flex;
     justify-content: space-between;
