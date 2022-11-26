@@ -462,5 +462,24 @@ nav.sticky ul{
 /* css for small screen */
 
 @media only screen and (max-width: 600px){
+    .pep img{
+        margin-top: 60%;
+        margin-bottom: 50%;
+    }
+    #contact{
+        margin-top: 80%;
+        margin-top: 60%;
+    }
     
-}
+            
+
+            
+            
+    
+        
+    
+
+
+
+    }
+    
