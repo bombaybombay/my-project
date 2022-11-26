@@ -154,6 +154,9 @@ font-family: 'Poppins', sans-serif;
     border-radius: 6px;
     position: absolute;
 }
+.icon.social{
+    background: orange;
+}
 .icon.img:hover{
     box-sizing: border-box;
     transform: translate(-5px);
